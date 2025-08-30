@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "514966603347",
+    "project_id": "iuserprojeto",
+    "storage_bucket": "iuserprojeto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514966603347:android:5f932991117699ecae68a6",
+        "android_client_info": {
+          "package_name": "com.iuser.iuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514966603347-lss9fbcf58gsisinv7m4dkill50q2nl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYcFIfj5tqxdI9GpWbz7anygzJFuuh7-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514966603347-lss9fbcf58gsisinv7m4dkill50q2nl6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "514966603347-c598ecvjlmapkgp4or7e9pu4vjukmpt3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iuser.web.iuserweb"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514966603347:android:91b5445bae65991fae68a6",
+        "android_client_info": {
+          "package_name": "com.iuser.web.iuserweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514966603347-seg940gdc1dtvp112f89p6sij53n5aqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iuser.web.iuserweb",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "514966603347-lss9fbcf58gsisinv7m4dkill50q2nl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYcFIfj5tqxdI9GpWbz7anygzJFuuh7-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514966603347-lss9fbcf58gsisinv7m4dkill50q2nl6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "514966603347-c598ecvjlmapkgp4or7e9pu4vjukmpt3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iuser.web.iuserweb"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514966603347:android:9b9476358af4c0bfae68a6",
+        "android_client_info": {
+          "package_name": "iuser.com.iuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514966603347-bvgu5o35d7r6psejt43vqq0nfphepme6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "iuser.com.iuser",
+            "certificate_hash": "97a6bfc350c80b8cd53365308f842cd192a75a56"
+          }
+        },
+        {
+          "client_id": "514966603347-kbshchpgqvmabfps1mqg7cjn0djtjn81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "iuser.com.iuser",
+            "certificate_hash": "c46d744428a9e4429fb06186d10b22b37d5798d1"
+          }
+        },
+        {
+          "client_id": "514966603347-lss9fbcf58gsisinv7m4dkill50q2nl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYcFIfj5tqxdI9GpWbz7anygzJFuuh7-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514966603347-lss9fbcf58gsisinv7m4dkill50q2nl6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "514966603347-c598ecvjlmapkgp4or7e9pu4vjukmpt3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iuser.web.iuserweb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
