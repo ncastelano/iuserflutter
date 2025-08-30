@@ -58,7 +58,7 @@ class MyApp extends StatelessWidget {
 
         // Input / TextField
         inputDecorationTheme: const InputDecorationTheme(
-          errorStyle: TextStyle(color: Colors.redAccent),
+          errorStyle: TextStyle(color: Colors.orange),
           focusedBorder: UnderlineInputBorder(
             borderSide: BorderSide(color: Colors.white70),
           ),
